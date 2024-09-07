@@ -42,13 +42,13 @@ $ yarn test
 ### Importing with `CommonJS`
 
 ```js
-const SteamMarketFetcher = require('steam-market-fetcher');
+const SteamMarketFetcher = require('quick-steam-market-fetcher');
 ```
 
 ### or with `ES6's import` statement.
 
 ```js
-import SteamMarketFetcher from 'steam-market-fetcher';
+import SteamMarketFetcher from 'quick-steam-market-fetcher';
 ```
 
 ### Instantiating with the `currency` and `format` options.
